@@ -36,6 +36,8 @@ Blockchain is a structure of block. Blocks are a list of transactions recorded i
 
 Explain how proof of work functions. How does it operate. How does this protect the chain from attack. What kind of attack is possible?
 
+The proof of work functions is a difficult mathmatical data creation function. The data is easy to be verfied by other memebers in the chain but is hard to produce. It is used in blockchain for generating the blocks this is called mining. THe miners complete the proof and then verify on the network. They could be attakced by DDoS or spamming of the blockchain.
+
 ## Project Set Up
 
 #### [Hash Tables]
