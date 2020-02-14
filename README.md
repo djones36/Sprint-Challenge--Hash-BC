@@ -28,7 +28,7 @@ Explain in detail the workings of a dynamic array:
 
 The runtime to access the array is O(1), O(n) to add or remove from the front. O(1) to add or remove from the back
 
-- What is the worse case scenario if you try to extend the storage size of a dynamic array?
+- What is the worse case scenario if you try to extend the storage size of a dynamic array? O(n)
 
 Explain how a blockchain is structured. What are the blocks, what is the chain? How is the data organized?
 
