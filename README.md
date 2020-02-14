@@ -26,9 +26,13 @@ Explain in detail the workings of a dynamic array:
 
 - What is the runtime complexity to access an array, add or remove from the front, and add or remove from the back?
 
-* What is the worse case scenario if you try to extend the storage size of a dynamic array?
+The runtime to access the array is O(1), O(n) to add or remove from the front. O(1) to add or remove from the back
+
+- What is the worse case scenario if you try to extend the storage size of a dynamic array?
 
 Explain how a blockchain is structured. What are the blocks, what is the chain? How is the data organized?
+
+Blockchain is a structure of block. Blocks are a list of transactions recorded in a ledger. the chain is a hash that links each block to another using math to chain them together. They are in a network of nodes, nodes are comptuers running in a network to solve the math. For security all the computers in the network have full copies of the transaction ledger.
 
 Explain how proof of work functions. How does it operate. How does this protect the chain from attack. What kind of attack is possible?
 
